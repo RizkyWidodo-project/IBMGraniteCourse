@@ -1,4 +1,5 @@
 From Feedback to Foresight: An AI-Powered Framework for Analyzing Patient Experience at UnitedHealth Group
+
 Project Overview
 This project presents a scalable, AI-driven framework designed to analyze unstructured patient reviews for UnitedHealth Group (UHG). The primary objective is to move beyond generic satisfaction scores and extract granular, actionable insights into the key drivers of patient satisfaction and dissatisfaction.
 
